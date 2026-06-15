@@ -51,9 +51,9 @@ I love building systems that feel **clean, efficient, and modern**...and breakin
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=CrazyWeezle&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=CrazyWeezle&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyWeezle&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=James-Jaffray&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=James-Jaffray&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=James-Jaffray&theme=dark&hide_border=false&layout=compact)
 
 ---
 
