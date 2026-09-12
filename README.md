@@ -23,10 +23,6 @@
 </p>
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_title=true&hide_border=true&theme=default" alt="GitHub stats" height="150">
-</p>
-
 ---
 
 <p align="center"><sub>Last updated: September 2026</sub></p>
