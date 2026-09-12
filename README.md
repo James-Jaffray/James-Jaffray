@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
-### GitHub activity
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_title=true&hide_border=true&theme=default" alt="GitHub stats" height="150">
