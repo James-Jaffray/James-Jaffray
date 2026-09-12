@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/James-Jaffray"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:James.v.Jaffray@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -59,7 +59,6 @@ $\color{#2dd4bf}{\texttt{Location:}}$ Alberta, Canada<br>
 $\color{#2dd4bf}{\texttt{School:}}$ NAIT Polytechnic<br>
 $\color{#2dd4bf}{\texttt{Program:}}$ Software Development<br>
 $\color{#2dd4bf}{\texttt{Status:}}$ Currently enrolled (Fall 2026)<br>
-
 <br>
 $\color{#2dd4bf}{\texttt{Languages.Learning:}}$ Python, JavaScript, SQL<br>
 $\color{#2dd4bf}{\texttt{Markup:}}$ HTML, CSS<br>
@@ -79,7 +78,6 @@ $\color{#2dd4bf}{\texttt{LinkedIn:}}$ linkedin.com/in/James-Jaffray<br>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 </p>
-
 
 ---
 
