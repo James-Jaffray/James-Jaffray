@@ -1,43 +1,33 @@
-<h1 align="center">Hi, I'm James 👋</h1>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=james-jaffray&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106495799%3Fu%3D035d02f2f0425fafc54ee55bc2241d1983891fcb%26v%3D4" alt="james-jaffray hero visual" />
+</p>
+
+## The city I built this year
 
 <p align="center">
-  Software Development student @ NAIT Polytechnic · Building my way into a dev career
+  <img src="https://www.gitskins.com/api/section/city?username=james-jaffray&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106495799%3Fu%3D035d02f2f0425fafc54ee55bc2241d1983891fcb%26v%3D4" alt="james-jaffray city visual" />
 </p>
+
+<p align="center"><sub>Every building is a day; taller means more contributions.</sub></p>
+
+## Population
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/James-Jaffray"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:James.v.Jaffray@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://www.gitskins.com/api/section/stats?username=james-jaffray&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106495799%3Fu%3D035d02f2f0425fafc54ee55bc2241d1983891fcb%26v%3D4" alt="james-jaffray stats visual" />
 </p>
 
----
+## Landmarks
 
-$\color{#2dd4bf}{\texttt{James}}$<br>
-$\color{#2dd4bf}{\texttt{-----------------------}}$<br>
-<br>
-$\color{#2dd4bf}{\texttt{Location:}}$ Alberta, Canada<br>
-$\color{#2dd4bf}{\texttt{School:}}$ NAIT Polytechnic<br>
-$\color{#2dd4bf}{\texttt{Program:}}$ Software Development<br>
-$\color{#2dd4bf}{\texttt{Status:}}$ Currently enrolled (Fall 2026)<br>
-<br>
-$\color{#2dd4bf}{\texttt{Languages.Learning:}}$ Python, JavaScript, SQL<br>
-$\color{#2dd4bf}{\texttt{Markup:}}$ HTML, CSS<br>
-<br>
-$\color{#2dd4bf}{\texttt{Looking for:}}$ Internships / Junior roles / Collabs<br>
-<br>
-$\color{#2dd4bf}{\texttt{-----------------------}}$<br>
-$\color{#2dd4bf}{\texttt{Email:}}$ James.v.Jaffray@gmail.com<br>
-$\color{#2dd4bf}{\texttt{LinkedIn:}}$ linkedin.com/in/James-Jaffray<br>
-
-### Currently learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=james-jaffray&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106495799%3Fu%3D035d02f2f0425fafc54ee55bc2241d1983891fcb%26v%3D4" alt="james-jaffray projects visual" />
 </p>
 
----
+## Visit
 
-<p align="center"><sub>Last updated: September 2026</sub></p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=james-jaffray&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106495799%3Fu%3D035d02f2f0425fafc54ee55bc2241d1983891fcb%26v%3D4" alt="james-jaffray social visual" />
+</p>
+
+<p align="center"><a href="https://github.com/james-jaffray">GitHub</a></p>
+
+<p align="center"><sub>James Jaffray · Contribution city generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
