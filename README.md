@@ -8,7 +8,6 @@
   <img src="https://www.gitskins.com/api/section/city?username=james-jaffray&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106495799%3Fu%3D035d02f2f0425fafc54ee55bc2241d1983891fcb%26v%3D4" alt="james-jaffray city visual" />
 </p>
 
-<p align="center"><sub>Every building is a day; taller means more contributions.</sub></p>
 
 ## Population
 
@@ -30,4 +29,4 @@
 
 <p align="center"><a href="https://github.com/james-jaffray">GitHub</a></p>
 
-<p align="center"><sub>James Jaffray · Contribution city generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>James Jaffray</p>
